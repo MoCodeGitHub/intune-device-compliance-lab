@@ -120,8 +120,6 @@ This project demonstrates practical experience with:
 
 Successfully created and deployed an Android compliance policy using Microsoft Intune and assigned it to a security group to simulate enterprise mobile device management workflows.
 
-All user identities and email addresses shown in this project are intentionally protected using placeholder values for demonstration purposes.
-
 ---
 
 <img width="1907" height="911" alt="Image" src="https://github.com/user-attachments/assets/a49a3ba5-aab0-4d30-9945-f55896e39ff9" />
@@ -140,7 +138,7 @@ All user identities and email addresses shown in this project are intentionally 
 
 <img width="1906" height="906" alt="Image" src="https://github.com/user-attachments/assets/11eddac2-1d26-4ab1-901c-0f0dcab0a9bf" />
 
-<img width="1906" height="900" alt="Image" src="https://github.com/user-attachments/assets/6a61a74b-8820-475d-a380-f0693bf8f735" />
+<img width="1906" height="900" alt="Image" src="https://github.com/user-attachments/assets/8c28ccf1-899f-4fe1-9b69-248fef403bd5" />
 
 <img width="1912" height="913" alt="Image" src="https://github.com/user-attachments/assets/179c2ab6-a845-4cd9-a154-3345368262cf" />
 
@@ -155,3 +153,6 @@ All user identities and email addresses shown in this project are intentionally 
 <img width="1909" height="912" alt="Image" src="https://github.com/user-attachments/assets/f28e22aa-bcb9-42a1-8f33-aca11811bdf6" />
 
 <img width="1906" height="916" alt="Image" src="https://github.com/user-attachments/assets/5246d8f4-b513-43d4-be5e-cf079c645ed1" />
+
+
+
